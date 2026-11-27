@@ -1,0 +1,8 @@
+{
+  "name": "edit-genius",
+  "version": "0.1.4",
+  "description": "Expert video editor for the Editroom Mac app: learns a creator's editing style from reference videos, then cuts, adds motion graphics, captions, sound design and exports in that style. Built from rea-video, video-use, chengfeng-videocut, auto-editor, HyperFrames and OpenFilm.",
+  "author": { "name": "Ai-Auto-editor" },
+  "license": "MIT",
+  "keywords": ["video", "editing", "editroom", "style", "motion-graphics", "sound-design"]
+}

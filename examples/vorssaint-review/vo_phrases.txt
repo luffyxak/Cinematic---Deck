@@ -1,0 +1,55 @@
+000 [0000.78-0016.62] One free Mac app that replaces 6 paid apps, you might not need anymore, volume mixer, system monitor, screenshot, editor, cleaner, clipboard manager, Windows manager, all inside one app, cold war sent.
+001 [0017.70-0019.86] Not corset. It's worsened.
+002 [0020.58-0028.02] So if you want a faster workflow on your Mac without paying for extra apps. This video is for you.
+003 [0028.38-0029.58] So let's get started.
+004 [0030.66-0041.10] Now open Firefox, search for worsen, open the 1st site, and click on the download button in the right side here.
+005 [0042.54-0060.54] It's downloading. Now open the file and ewing version into applications and launch it. And by the way, it needs an Apple silicon Mac with macOS 14 on yours. So check that first.
+006 [0061.68-0064.74] Okay, now see this dynamic island.
+007 [0065.58-0071.70] It's one of the best parts of this app. I will show you why in later in this video.
+008 [0072.12-0072.60] Okay.
+009 [0074.04-0079.20] Now, 1st up in the menu, you find the version, I can click it.
+010 [0079.74-0081.06] Everything is right here.
+011 [0083.40-0091.08] First, keep awake, it stop your make from going to sleep and you can choose whether the display is allowed to sleep.
+012 [0091.68-0097.14] It's like caffeine at command, but without opening terminal, and it's good.
+013 [0099.12-0112.32] Next, and I love this one, the volume mixer, you can control the volume of every app separately, turn on up, turn another down, and Apple never give this natively.
+014 [0112.86-0113.82] So Apple.
+015 [0114.24-0114.78] Fuck.
+016 [0115.56-0116.10] You.
+017 [0116.58-0117.96] So, Apple, fuck you.
+018 [0120.30-0126.18] So here is the system monitor, you can see how hard your CPN GPU are working live.
+019 [0127.14-0148.26] And another one, there is a built in internet speed test too, so you don't have to open a website. And this one is you can like check your storage in this activity. Like, look at this, like, Oh my god, look at this, 31 terabytes, return, 87 terabyte, trade.
+020 [0150.36-0150.96] Interesting
+021 [0152.28-0175.80] And for the battery, you get your cycle count percentage and all the other things here. And now, it is very interesting section. 1st of all, let's start with screenshot tool, which is really good. Take a screenshot, edit it right away. Add arrows, blur anything you want to hide and or crop it.
+022 [0176.40-0186.54] And his like, you can add text emojis, just double click, and it's done. There are shapes and pencil with different girls too.
+023 [0188.10-0199.26] Then there is the cleaner hit scan, and it find catchy slots and leftover files from apps, you already deleted, review the list, clean it, and done.
+024 [0202.98-0204.66] Clipboard windows.
+025 [0205.44-0214.20] Next is clipboard history, super useful on my Mac. Everything you copy gets save you here, so you are not stuck with only the last thing.
+026 [0215.34-0216.18] Let me show you.
+027 [0216.96-0219.00] I will create a new note.
+028 [0219.78-0227.46] Type something random, then press, command, C, and command V, and there is it. The clipboard history instantly.
+029 [0228.36-0234.60] Then there is a window layout, you know, you can just adjust multiple windows on your screen.
+030 [0235.02-0240.42] If you got 2 or 3 windows open. You can snap them into place however you like.
+031 [0241.44-0249.96] And the color picker, I use this feature a lot peak, any color on your screen, it shows up right into dynamic island.
+032 [0251.70-0255.18] You can also grab your COVID item straight from the island.
+033 [0256.26-0259.32] And here is my favorite trick. Like, let me show you.
+034 [0259.86-0266.34] I will create a new folder, call it high. Now I just drag it into dynamic island and drop it.
+035 [0266.94-0276.84] It works like temperature storage if you are editing a video and juggling with files, part time here and rake them out whenever you need them.
+036 [0277.20-0278.94] It's super useful feature.
+037 [0280.56-0288.24] Like, that's why I like it. Like this dynamic and I told you earlier in video. It's super good. You can use it anyway.
+038 [0289.98-0293.94] And you can customize the dynamic island to add more things too.
+039 [0296.52-0318.96] You already seen the monitor, so here is something new, like quick panel. It keeps your favorite tools in one place, these are the tools I use. Like cleaning mode when you are wiping a stickyboard, turn this on and it will not type anything by accident. It's very useful. I used it a lot.
+040 [0320.88-0325.68] Then the radical menu. This feature I likes a lot. I really use this one a lot.
+041 [0327.06-0331.14] It's a wheel of your own shortcuts, right after your cursor.
+042 [0333.48-0345.48] To add something, click and add action, I will add chamini, give it a name, and it's saved done. Now I open the menu, pick screenshot, I capture right away.
+043 [0346.32-0349.80] So it's super useful, as you can see here the point.
+044 [0351.48-0357.30] Remember, keep awake. It can also keep your MacBook running while the lid is closed.
+045 [0357.60-0364.56] This helps if you use an external display, turn it on, keep your charger plug in and connect your monitor.
+046 [0365.04-0366.12] Super useful feature.
+047 [0367.32-0376.62] If you miscut and paste from Windows, turn this on, press command X and command V and your folder moves to the new location.
+048 [0377.94-0394.20] No, this one, the temporary shelf, I show you earlier in this list as well, and there's an Stoller Dragon app in and removes app along with its related files. It's super useful if you want to do something like with his catch and all the files.
+049 [0394.56-0402.06] You can also set up shortcuts and automation. There is plenty more to explore, like you guys can install and write out and explore more things.
+050 [0403.14-0409.26] So that's worsen free, open source and tagged with tools you usually pay for separately.
+051 [0409.74-0414.30] Try it yourself and tell me in the comments which features you used most.
+052 [0418.32-0425.58] So that's worsened, free open source and packed with tools you usually pay, who separately.
+053 [0426.00-0430.20] Try it yourself and tell me in the comments which feature you use most.
+054 [0431.16-0435.84] If this helped, like the videos, subscribe for more and see you in the next one.

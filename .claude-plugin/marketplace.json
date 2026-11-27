@@ -1,0 +1,8 @@
+{
+  "name": "edit-genius-local",
+  "owner": { "name": "Ai-Auto-editor" },
+  "metadata": { "description": "Local marketplace for the edit-genius plugin." },
+  "plugins": [
+    { "name": "edit-genius", "source": "./", "description": "Style-learning video editor that works inside Editroom." }
+  ]
+}

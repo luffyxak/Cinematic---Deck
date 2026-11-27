@@ -1,0 +1,4 @@
+{"width":1920,"height":1080,"fps":30,"duration":1.6,"background":"#000000",
+ "layers":[
+  {"type":"phrase","text":"20 min later","start":0.0,"end":0.4,"x":0.5,"y":0.5,"size":130,"font":"din-condensed","color":"#FFFFFF"},
+  {"type":"phrase","text":"20 min later","start":0.4,"end":1.6,"x":0.5,"y":0.5,"size":130,"font":"din-condensed","color":"#E8261E"}]}

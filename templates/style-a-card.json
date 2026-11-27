@@ -1,0 +1,5 @@
+{"width":1920,"height":1080,"fps":30,"duration":1.4,"background":"#ECE4DA",
+ "layers":[
+  {"type":"phrase","start":0.0,"end":1.4,"x":0.5,"y":0.5,"size":100,"font":"times-bold","color":"#000000",
+   "runs":[{"text":"is that it's "},{"text":"modular","color":"#F2604A","size":108}],
+   "in":{"fade":0.1,"rise":6},"out":{"fade":0.067}}]}

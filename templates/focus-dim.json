@@ -1,0 +1,2 @@
+{"width":1920,"height":1080,"fps":30,"duration":2.0,"background":null,
+ "layers":[{"type":"dim","start":0.0,"end":2.0,"opacity":0.55,"hole":{"x":0.72,"y":0.45,"w":0.26,"h":0.12,"radius":14},"in":{"fade":0.25},"out":{"fade":0.15}}]}

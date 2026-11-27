@@ -1,0 +1,4 @@
+{"width":1920,"height":1080,"fps":30,"duration":2.0,"background":null,
+ "layers":[
+  {"type":"meme","text":"*Doesn't work*","start":0.0,"end":2.0,"x":0.62,"y":0.2,"size":76,"font":"din-condensed",
+   "color":"#FFFFFF","stroke":"#000000","stroke_width":5,"in":{"pop":0.15},"out":{"fade":0.1}}]}
